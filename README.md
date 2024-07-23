@@ -1,4 +1,4 @@
-# My GameTank Game
+# Conway's GameTank Game of Life
 
 Build it with the "make" command
 
